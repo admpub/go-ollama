@@ -23,6 +23,7 @@ import (
 )
 
 var defaultModels = []string{
+	"translategemma",
 	"gemma3:1b",
 	//"gemma3:4b",
 	//"gemma3:12b",
