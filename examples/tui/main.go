@@ -19,7 +19,7 @@ import (
 	"github.com/charmbracelet/glamour"
 	"github.com/charmbracelet/lipgloss"
 
-	ollama "github.com/eslider/go-ollama"
+	ollama "github.com/admpub/go-ollama"
 )
 
 var defaultModels = []string{

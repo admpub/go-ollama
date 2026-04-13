@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"os"
 
-	ollama "github.com/eslider/go-ollama"
+	ollama "github.com/admpub/go-ollama"
 )
 
 func main() {
